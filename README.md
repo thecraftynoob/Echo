@@ -54,3 +54,6 @@ dotnet run
 - `Program.cs` - Application entry point
 - `MainForm.cs` - Main form with UI and echo functionality
 
+
+Angela helped me!!!!!!!!!!!
+

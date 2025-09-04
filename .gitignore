@@ -1,0 +1,17 @@
+﻿bin/
+obj/
+.vs/
+*.user
+*.suo
+.idea/
+*.iml
+*.log
+packages/
+*.nupkg
+*.snupkg
+*.dotCover
+coverage*/
+Thumbs.db
+[Dd]ebug/
+[Rr]elease/
+[Tt]est[Rr]esult*/
